@@ -1,3 +1,6 @@
+
+![Amazon Dashboard](amazondashboard.png)
+
 # amazon-sales-dashboard-powerbi
 I am creating amazon-sales-dashboard with using excel and power-bi 
 # Amazon Sales Dashboard | Power BI
